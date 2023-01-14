@@ -1,0 +1,62 @@
+body {
+    padding: 100px;
+    background: #1fa5e3;
+  }
+  
+  #heading {
+    color: #fff;
+    font-family: 'Inconsolata'
+  }
+  
+  .custom-search form {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .custom-search input {
+    font-family: 'Roboto';
+    font-size: 15px;
+    margin: 0;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    background: #03a9f4;
+    color: rgba(255, 255, 255, 0.8);
+    transition: all .2s ease;
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .custom-search input:hover {
+    background: #1cb5fd
+  }
+  
+  .custom-search input:focus {
+    background: #fff;
+    color: #666;
+    outline: none;
+  }
+  
+  .foot {
+    padding: 30px;
+  }
+  
+  .foot a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+  }
+  
+  .foot a:hover {
+    color: #fff;
+  }
+
+  .logo{
+    width: 100px;
+    }
+
+  .logo img{
+    float: left;
+    margin-left: 100px 100px 100px 30px;
+    width: 150px;
+    height: 38px;
+    }
